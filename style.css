@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+}
+
+.txt {
+    display: flex;
+    font-size: 75px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.size {
+    border: 2px solid black;
+    height: 50px;
+    width: 200px;
+    margin: 20px;
+    background-color: darkcyan;
+    box-shadow: 5px 10px #888888;
+}
+
+.centerBoxes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.size p {
+    color: #fff;
+}
