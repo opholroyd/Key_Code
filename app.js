@@ -1,7 +1,7 @@
-const event1 = document.getElementById("demo")
-const event2 = document.getElementById("demo1")
-const event3 = document.getElementById("demo2")
-const event4 = document.getElementById("demo3")
+const event1 = document.getElementById("keyPressed")
+const event2 = document.getElementById("eventKey")
+const event3 = document.getElementById("eventCode")
+const event4 = document.getElementById("eventWhich")
 
 
 
